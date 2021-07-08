@@ -1,12 +1,9 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LuisZelaya19.LuisZelaya19)
 
 </p>
 <div size='20px'> Hi! My name is Luis Zelaya. Thank You for taking the time to view my GitHub Profile :smile:
@@ -18,7 +15,7 @@
 
 
 - 🔭 I’m currently working on <a href="https://www.upwork.com/freelancers/~015a8562492b525ad8?s=1110580755107926016
-Freelacer.com: https://www.freelancer.com/u/joluzel19" > Upwork.com </a> and <a href="https://www.freelancer.com/u/joluzel19"> Freelacer.com </a>
+Freelacer.com: https://www.freelancer.com/u/joluzel19" > Upwork.com </a> and <a href="https://www.freelancer.com/u/joluzel19"> Freelacer.com </a> as Freelancer
 
 - 🌱 I’m currently learning API Authentication, PHPUnitTesting
 
